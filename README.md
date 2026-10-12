@@ -6,7 +6,6 @@ Chef's Menu Manager — React Native Mobile Application
 Student Name: Jessel Sookha   
 Student ID: ST10528033   
 Module: MAST5112 — Mobile App Scripting (POE Part 2)   
-Institution: The Independent Institute of Education (Pty) Ltd   
 
 Project Overview
 Chef's Menu Manager is a React Native mobile application designed specifically for Chef Christoffel to digitally manage and present his restaurant's menu.   
